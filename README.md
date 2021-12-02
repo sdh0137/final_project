@@ -17,6 +17,7 @@ II. Datasets
     
     - WHO에서 제공하는 국가별 결핵 데이터를 사용하였다. (https://www.who.int/teams/global-tuberculosis-programme/data)
     
+![image](https://user-images.githubusercontent.com/83224573/144385886-92b85de3-1c11-40e7-8f8a-f1983d5182b6.png)
 
     - 국가, 지역별로 결핵데이터를 나타낸 'TB_burden_countries_2021-11-30' 파일과 결핵데이터 columns들의 뜻을 나타낸 'TB_data_dictionary_2021-11-30' 데이터를 사용했다.
     
